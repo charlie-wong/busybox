@@ -19,4 +19,10 @@ INSERT
 #define busybox_notes_usage \
        "Hello world!\n"
 
+#define wlc_trivial_usage \
+       "wlc_trivial_usage" \
+       
+#define wlc_full_usage \
+       "wlc_full_usage" \
+
 #endif
